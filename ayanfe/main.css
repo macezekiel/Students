@@ -1,0 +1,6 @@
+#tuna{color:red;} 
+.tuna{color:blue;} 
+p[name]{color:blue;}
+p[name^="good"]{color:pink;}
+p[name$="wonderful"]{color:orange;}
+P[name*="God"]{color:yellow;}
